@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS smart Tool - menu-bar-customization and junk-removal, the #1 tool. Includes menu-bar-customization and junk-removal for a smoother
 
 
 
